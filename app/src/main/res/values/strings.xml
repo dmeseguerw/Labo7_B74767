@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Labo</string>
+    <string name="header_name">Button Sounds</string>
+    <string name="play_rain">RAIN</string>
+    <string name="play_sea">SEA</string>
+    <string name="play_farm">FARM</string>
+    <string name="play_storm">STORM</string>
+    <string name="play_wind">WIND</string>
+    <string name="play_city">CITY</string>
+</resources>
