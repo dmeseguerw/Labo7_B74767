@@ -91,6 +91,8 @@ public class MainActivity extends AppCompatActivity {
 //            }
 //        });
     }
+//
+//
     boolean Rain_Clicked = true;
     boolean Storm_Clicked = true;
     boolean Wind_Clicked = true;
